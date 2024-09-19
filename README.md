@@ -17,4 +17,4 @@
 ## Link do dataset original:
 https://opendatasus.saude.gov.br/dataset/sisvan-estado-nutricional
 
-#### Obs: Este é um trabalho em andamento.
+![Static Badge](https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO-%23A13DE6%20?label=STATUS&labelColor=%233371FF)
